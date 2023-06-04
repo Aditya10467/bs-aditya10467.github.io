@@ -1,4 +1,4 @@
-                                 # html-aditya10467.github.io  
+                                 # bs-aditya10467.github.io  
 
 <h1 align="center">Hi 👋, I'm Aditya Tripathy</h1>
 
